@@ -14,8 +14,6 @@
 
 - ^_+ I’m work at **Quantum Teknologi Nusantara**
 
-- O_O How to reach me **rryuaditya@gmail.com**
-
 - ⚡ Fun fact **Ishtar Husband**
 
 
