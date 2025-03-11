@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b7/27/60/b72760836225cbde54503ef235eccab7.gif" alt="MasterHead" style="display: block; margin: auto;"/>
+</p>
 
-<!--
-**honestklee/honestklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi I'm HonestKlee</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=honestklee&label=Profile%20views&color=0e75b6&style=flat" alt="honestklee" /> </p>
+
+- ^_~ I’m currently working on **Avian Website**
+
+- ^_^ I’m currently learning **NextJS**
+
+- ^_+ I’m work at **Quantum Teknologi Nusantara**
+
+- O_O How to reach me **rryuaditya@gmail.com**
+
+- ⚡ Fun fact **Ishtar Husband**
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=honestklee&show_icons=true&locale=en&layout=compact" alt="honestklee" /></p>
