@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honestklee&label=Profile%20views&color=0e75b6&style=flat" alt="honestklee" /> </p>
 
-- ^_~ I Last worked at **Quantum Teknologi Nusantara**
+- Last worked at **Quantum Teknologi Nusantara**
 
-- ^_^ I’m currently learning **NextJS**
+- I’m currently learning **NextJS**
 
-- ^_+ I’m work at **Mattel**
+- ^_+ I’m working at **Mattel**
 
 - ⚡ Fun fact **Ishtar Husband**
 
