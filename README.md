@@ -10,7 +10,7 @@
 
 - Last worked at **Quantum Teknologi Nusantara**
 
-- I’m currently learning **NextJS**
+- I’m currently learning **NextJS** , **.NET** , and **Vue**
 
 - ^_+ I’m working at **Mattel**
 
