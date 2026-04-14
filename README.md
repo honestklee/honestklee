@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31x5z4vxmvyflxcicryo7deayrem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31x5z4vxmvyflxcicryo7deayrem&cover_format=square&show_status=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31x5z4vxmvyflxcicryo7deayrem&cover_format=square&show_status=true&theme=dark" alt="Spotify Now Playing" />
   </a>
 </div>
 
