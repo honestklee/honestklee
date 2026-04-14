@@ -60,8 +60,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/On21th">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=On21th&cover_format=square&show_status=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/31x5z4vxmvyflxcicryo7deayrem?si=bbf75096c62f4150">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31x5z4vxmvyflxcicryo7deayrem?si=bbf75096c62f4150&cover_format=square&show_status=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
