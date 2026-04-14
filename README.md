@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/On21th">
-    <img src="https://spotify-api-cyan-nine.vercel.app/api/spotify" alt="Spotify Now Playing" />
+    <img src="https://spotify-api-cyan-nine.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
   </a>
 </div>
 
