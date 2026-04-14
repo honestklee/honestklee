@@ -17,9 +17,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="css logo"  />
 </div>
 
 ###
