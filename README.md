@@ -1,4 +1,4 @@
-<h1 align="center">Ryu Aditya 🙂‍↕️</h1>
+<h1 align="center">Ryu Aditya</h1>
 
 ###
 
