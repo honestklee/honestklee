@@ -30,6 +30,12 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxt" height="60" alt="css logo"  />
 </div>
 
 ###
@@ -51,16 +57,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=honestklee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=honestklee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=86400" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=honestklee&layout=compact&theme=dracula&langs_count=5&cache_seconds=86400" height="150" />
 </div>
 
 ###
