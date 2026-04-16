@@ -65,5 +65,12 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honestklee&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages" />
+</div>
+
+###
 
 ###
