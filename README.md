@@ -38,8 +38,8 @@
   <img src="https://skillicons.dev/icons?i=php" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxt" height="60" />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=.net" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" />
 </div>
 
 ###
