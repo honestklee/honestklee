@@ -61,14 +61,6 @@
 
 ###
 
-<h3 align="center"> Most Used Languages</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honestklee&layout=compact&theme=dracula" height="150" />
-</div>
-
-###
-
 <h3 align="center"> Contribution Snake</h3>
 
 <div align="center">
